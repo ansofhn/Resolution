@@ -1,1 +1,2 @@
 # Resolution
+Rencana Resolusi Kedepan
