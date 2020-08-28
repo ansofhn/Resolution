@@ -1,4 +1,6 @@
 language program
--python
+-python:
+  -machine learning
+  -data science
 -php
 -javascript
